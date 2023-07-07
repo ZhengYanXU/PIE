@@ -37,8 +37,8 @@ The following shows the basic folder structure.
 ├── train.py # training code
 ├── lowlight_model.py
 ├── Myloss.py
-├── Myloss.py
-├── Myloss.py
+├── CR.py
+├── curves.py
 ├── checkpoints
 │   ├── PiLLE.pth #  A pre-trained PiLLE model
 ```
