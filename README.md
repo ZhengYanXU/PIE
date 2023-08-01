@@ -1,4 +1,4 @@
-# PiLLE: Physics-inspired Contrastive Learning for Low-light Enhancement
+# PIE: Physics-inspired Contrastive Learning for Low-light Enhancement
 
 
 ****
